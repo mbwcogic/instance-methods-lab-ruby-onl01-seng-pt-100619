@@ -1,4 +1,4 @@
 class Person
 end
 
-Michael = Dog.new
+Michael = Person.new
