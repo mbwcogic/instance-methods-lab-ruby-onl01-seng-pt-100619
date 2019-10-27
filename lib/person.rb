@@ -1,4 +1,5 @@
 class Person
 end
 
-Michael = Person.new
+michael = Person.new
+michael.
